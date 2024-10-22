@@ -28,12 +28,13 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josefdc&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiocruzC0122&show_icons=true&theme=monokai&hide_border=true" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josefdc&theme=monokai&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiocruzC0122&theme=monokai&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josefdc&theme=monokai&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocruzC0122&theme=monokai&hide_border=true&layout=compact" alt="Top Languages">
 </p>
+
 
 ---
 
