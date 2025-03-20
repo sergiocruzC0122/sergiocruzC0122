@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 
 <h1 align="center"><b>Hello! I'm Sergio Nicolas Cruz Cifuentes</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -14,16 +13,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/Workflows-%231E1E1E.svg?style=for-the-badge&logo=githubactions&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Fetch-%23000000.svg?style=for-the-badge&logo=javascript&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-  <img src="https://img.shields.io/badge/POO%20--%20MVC-%23007396.svg?style=for-the-badge&logo=object%2Doriented%2Ddesign&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL--SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/APIs-%2300A4CC.svg?style=for-the-badge&logo=api&logoColor=white">
 </p>
-
 
 ## 📊 GitHub Stats:
 
@@ -32,9 +26,8 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sergiocruzC0122&theme=monokai&hide_border=true" alt="GitHub Streak">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocruzC0122&theme=monokai&hide_border=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocruzC0122&theme=monokai&hide_border=true&layout=compact&langs_count=6" alt="Top Languages">
 </p>
-
 
 ---
 
